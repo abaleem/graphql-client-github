@@ -20,13 +20,17 @@ In this project I have implemented object oriented design of a program that extr
 * Open the Command Prompt (if using Windows) or the Terminal (if using Linux/Mac) and go to the project directory
 * Build the project and generate the jar file using SBT
 
- ```sbt clean compile run```
+ ```
+ sbt clean compile run
+ ```
 
 
 * To run the scalatest using SBT use
 
 
- ```sbt clean compile test```
+ ```
+ sbt clean compile test
+ ```
 
 
 **Running project using Intellij Idea**
@@ -115,7 +119,9 @@ SearchQueries class is initiated without any parameters:- This class handles fun
 
 The tests for this project can be run using
 
- ```sbt clean compile test```
+ ```
+ sbt clean compile test
+ ```
 
 or navigating to tests in Intellij and run and right clicking the folder to run them all. 
 
