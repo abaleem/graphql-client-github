@@ -17,8 +17,7 @@ You can read about how to use it over here: https://developer.github.com/v4/guid
 
 This should allow to give a basic idea of how the queries are formulated and what we get in repsonse. 
 
-You can explore more about the GitHub Schema on this website: https://apis.guru/graphql-voyager/ 
-
+You can explore more about the GitHub Schema on this website: https://apis.guru/graphql-voyager/  
 Change schema to GitHub at the top left corner. I found this graph extremly useful in explaining the relation between different objects. You can generate more advance queries with the help of this and test them using GitHub Explorer.
 
 
