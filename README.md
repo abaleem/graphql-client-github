@@ -2,12 +2,12 @@
 ### By Abdullah Aleem
 #### Object-oriented design and implementation of a [GraphQL](https://graphql.org/) client for [Github](https://github.com/) done using pure functional implementation.
 
-### Overview
+## Overview
 
 In this project I have implemented object oriented design of a program that extracts and organizes git repositories and user data from Github. Github Uses graphql which is a new technology released by Facebook. This project is implemented in scala which provides functionality of both object oriented and functional programming. I have tried to implement this homework using as many of these concepts as I could, given this was my first functional assignment. I haven't used variables anywhere and used lambda functions where ever I could.
 
 
-### Instructions
+## Instructions
 
 **Prerequisites** 
 
@@ -39,7 +39,7 @@ In this project I have implemented object oriented design of a program that extr
 
 
 
-### Program Structure and Design
+## Program Structure and Design
 
 **Models**
 
@@ -54,7 +54,7 @@ I divided my client into three parts:-
 3. Query Client: There are three query clients that I have implemented RepositoryQueries, UserQueries and SearchQueries. All these perform a certain set of operations (described later) e.g. the UserQueries class would perform user queries e.g. get the language the user is has used the most. All these classes inherits the ErrorCheck class and perform error checking before performing any operation.
 
 
-### Implementation and Usage
+## Implementation and Usage
 
 **RepositoryQueries**
 
@@ -111,7 +111,7 @@ SearchQueries class is initiated without any parameters:- This class handles fun
      
 
 
-### Testing
+## Testing
 
 The tests for this project can be run using
 
