@@ -32,6 +32,7 @@ Change schema to GitHub at the top left corner. I found this graph extremly usef
 * This project was done is Intellij Idea IDE. And can be easily loaded for proper project access.
 
 **Add your GitHub Access Token**  
+
 Once you have generated the your github access token you need to add it to the config file, which is located in src.main.resources folder.
 
 **Running project using SBT**
