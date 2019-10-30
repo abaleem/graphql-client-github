@@ -1,0 +1,53 @@
+[debug] Packaging C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\abdullah_aleem_hw1_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes
+[debug] 	client
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\client
+[debug] 	client\DataGetter$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\client\DataGetter$.class
+[debug] 	client\DataGetter.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\client\DataGetter.class
+[debug] 	client\RepositoryQueries.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\client\RepositoryQueries.class
+[debug] 	hw1_config.conf
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\hw1_config.conf
+[debug] 	logback.xml
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\logback.xml
+[debug] 	main
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\main
+[debug] 	main\scala
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\main\scala
+[debug] 	main\scala\Main$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\main\scala\Main$.class
+[debug] 	main\scala\Main.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\main\scala\Main.class
+[debug] 	models
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models
+[debug] 	models\Data$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Data$.class
+[debug] 	models\Data.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Data.class
+[debug] 	models\Nodes$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Nodes$.class
+[debug] 	models\Nodes.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Nodes.class
+[debug] 	models\Owner$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Owner$.class
+[debug] 	models\Owner.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Owner.class
+[debug] 	models\QueryResult$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\QueryResult$.class
+[debug] 	models\QueryResult.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\QueryResult.class
+[debug] 	models\Repository$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Repository$.class
+[debug] 	models\Repository.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\Repository.class
+[debug] 	models\RepositoryOwner.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\RepositoryOwner.class
+[debug] 	models\User$.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\User$.class
+[debug] 	models\User.class
+[debug] 	  C:\Users\User\IdeaProjects\abdullah_aleem_hw1\target\scala-2.12\classes\models\User.class
+[debug] Done packaging.
