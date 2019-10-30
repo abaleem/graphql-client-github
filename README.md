@@ -33,7 +33,7 @@ Change schema to GitHub at the top left corner. I found this graph extremly usef
 
 **Add your GitHub Access Token**  
 
-Once you have generated the your github access token you need to add it to the config file, which is located in src.main.resources folder.
+* Once you have generated the your github access token you need to add it to the config file, which is located in src.main.resources folder.
 
 **Running project using SBT**
 
