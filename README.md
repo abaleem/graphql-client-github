@@ -1,11 +1,10 @@
-# Homework 1
+# GraphQL Client for GitHub
 ### By Abdullah Aleem
-#### Description: object-oriented design and implementation of a [GraphQL](https://graphql.org/) client for [Github](https://github.com/).
-
+#### Object-oriented design and implementation of a [GraphQL](https://graphql.org/) client for [Github](https://github.com/) done using pure functional implementation.
 
 ### Overview
 
-This is homework number 1 for the CS 474 - class object oriented languages and programming. In this homework I have implemented object oriented design of a program that extracts and organizes git repositories and user data from Github. Github Uses graphql that a new technology released by Facebook. This homework is implemented in scala which provided functionality of both object oriented and functional programming. I have tried to implement this homework using as many of these concepts as I could, given this was my first object oriented or functional assignment. I haven't used variables anywhere and used lambda functions where ever I could.
+In this project I have implemented object oriented design of a program that extracts and organizes git repositories and user data from Github. Github Uses graphql which is a new technology released by Facebook. This project is implemented in scala which provides functionality of both object oriented and functional programming. I have tried to implement this homework using as many of these concepts as I could, given this was my first functional assignment. I haven't used variables anywhere and used lambda functions where ever I could.
 
 
 ### Instructions
@@ -21,13 +20,13 @@ This is homework number 1 for the CS 474 - class object oriented languages and p
 * Open the Command Prompt (if using Windows) or the Terminal (if using Linux/Mac) and go to the project directory
 * Build the project and generate the jar file using SBT
 
- **sbt clean compile run** 
+ ```sbt clean compile run```
 
 
 * To run the scalatest using SBT use
 
 
- **sbt clean compile test**
+ ```sbt clean compile test```
 
 
 **Running project using Intellij Idea**
@@ -112,22 +111,19 @@ SearchQueries class is initiated without any parameters:- This class handles fun
      
 
 
-### Evaluation and Testing
+### Testing
 
 The tests for this project can be run using
 
-
- **sbt clean compile test**
- 
-
+ ```sbt clean compile test```
 
 or navigating to tests in Intellij and run and right clicking the folder to run them all. 
 
 There are 6 tests that I have designed in this project. The first test checks the data getter.  The next two tests checks the models and if they are formed correctly. The last three tests test the functionality for RepositoryQueries and UserQueries methods. These tests with detailed explanations can be found in scala->tests->main
 
-## Design Patterns
+## Design Patterns Implemented
 
-The two design patterns that I have used for this project are Singleton and Facade. Below is brief explanation of how I have used them and hwo they helped me.
+The two design patterns that I have used for this project are Singleton and Facade. Below is brief explanation of how I have used them and how they helped me.
 
 * Singleton
     
