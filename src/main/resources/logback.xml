@@ -6,8 +6,7 @@
     </appender>
 
     <appender name="FILE" class="ch.qos.logback.core.FileAppender">
-        <!-- path to your log file, where you want to store logs -->
-        <file>/Users/User/IdeaProjects/abdullah_aleem_hw1/hw1_log.log</file>
+        <file><!-- Add path to your log file here --></file>
         <append>false</append>
         <encoder>
             <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
