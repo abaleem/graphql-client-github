@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this project I have implemented object oriented design of a program that extracts and organizes git repositories and user data from Github. Github Uses graphql which is a new technology released by Facebook. This project is implemented in scala which provides functionality of both object oriented and functional programming. I have tried to implement this project using as many of these concepts as I could, given this was my first functional assignment. I haven't used variables anywhere and used lambda functions where ever I could.
+In this project I have implemented object oriented design of a program that extracts and organizes git repositories and user data from Github. Github uses graphql which is a new technology released by Facebook. This project is implemented in scala which allowed me to use functionality of both object oriented and functional programming. I avoided using any variables, used lambda function to make code as much readable as possible and used design patterns wherever possible. All inputs to the application are provided using config file located in resouces folder. I also tried to log at all level possible. Lastly, I wrote 6 scala tests for this application. These tests commented in the code on what they are supposed to do and the input to them are also provided through the config file.
 
 ## GitHub API
 
