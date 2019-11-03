@@ -136,7 +136,7 @@ SearchQueries class is initiated without any parameters:- This class handles fun
      
 
 
-## Testing
+## Scala Tests
 
 The tests for this project can be run using
 
