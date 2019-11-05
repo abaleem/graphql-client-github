@@ -1,5 +1,4 @@
 # GraphQL Client for GitHub
-### By Abdullah Aleem
 #### Object-oriented design and implementation of a [GraphQL](https://graphql.org/) client for [Github](https://github.com/) done using pure functional implementation.
 
 ## Overview
